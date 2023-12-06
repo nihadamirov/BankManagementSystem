@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="678181a4-8753-4381-a55d-99e5efcb83f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/SignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Connect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/SignUp2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BankManagementSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BankManagementSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bank/management/system/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/management/system/SignUp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +38,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
+    "Notification.DoNotAsk-Vcs Important Messages": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/nihad/Calendar.jar/jcalendar-tz-1.3.3-4.jar",
+    "last_opened_file_path": "C:/Users/nihad/IdeaProjects/ResumeDbApp/src/main/java/com/company/dao/AbstractDAO.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -88,5 +97,16 @@
       <updated>1701289336221</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
