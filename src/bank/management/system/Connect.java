@@ -10,7 +10,7 @@ public class Connect {
 
     public Connect() {
         try {
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/bankSystem", "root", "56789");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/bankSystem", "root", "*****");
             statement = connection.createStatement();
         } catch (Exception e) {
             e.printStackTrace();
